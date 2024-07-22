@@ -4,6 +4,7 @@
     "typescript": "^5.5.3"
   },
   "dependencies": {
+    "mongoose": "^8.5.1",
     "pg": "^8.12.0"
   },
   "name": "postandmongodb_prac",
